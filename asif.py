@@ -1,2 +1,2 @@
-n=()[D[Dinput()[D""[DEnter any number:")
+n=input("Enter any number:")
 print n
